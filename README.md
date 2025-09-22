@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 - **[Rail Madad (DevsDialogue)](https://github.com/DevsDialogue/rail-madad):** Collaborative platform for improving railway services and support.
 - **[ChatBot with PyTorch & Deep Learning](https://github.com/abhayrana303/ChatBot-PyTorch-and-Deep-Learning):** Exploring conversational AI using deep learning frameworks.
 - **[Getting Started with Git & GitHub](https://github.com/abhayrana303/Getting-started-with-Git-Github):** Comprehensive guide for beginners to kickstart their journey with version control.
+- **[Rock_Mine-prediction](https://github.com/abhayrana303/Rock_Mine-prediction):** Basic Machine Learning Practice project for predicting Rock or Mine with the help of Sonar Data in Submarine.
 
 ---
 
