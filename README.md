@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ## 📫 Connect with Me
 
 - Email: abhayrana303@gmail.com
-- LinkedIn: [Abhay Rana](https://www.linkedin.com/in/abhayrana303/)
+- LinkedIn: [Abhay Rana](https://www.linkedin.com/in/abhayrana01/)
 - GitHub: [@abhayrana303](https://github.com/abhayrana303)
 
 ---
