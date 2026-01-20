@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 - [Document-Research-ChatBot](https://github.com/abhayrana303/Document-Research-ChatBot): A chatbot that helps you research and interact with documents efficiently.
 - [Multiple-Disease-prediction-web-app](https://github.com/abhayrana303/Multiple-Disease-prediction-web-app): Web app to predict multiple diseases based on user input.
 - [Rail Madad (Contributor)](https://github.com/DevsDialogue/rail-madad): Community-driven platform for railway assistance and dialogue.
-- [(https://github.com/abhayrana303/ai-article-generator.git)]: AI driven article generator.
+- [https://github.com/abhayrana303/ai-article-generator.git]: AI driven article generator.
 
 ## 🛠️ Technologies & Skills
 
