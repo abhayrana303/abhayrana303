@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ## 🚀 My Top Projects
 
 - [Rock_Mine-prediction](https://github.com/abhayrana303/Rock_Mine-prediction): Predicts whether an object is a rock or a mine using machine learning algorithms.
-- [Document-Research-ChatBot](https://github.com/abhayrana303/Document-Research-ChatBot): A chatbot that helps you research and interact with documents efficiently.
+- [Document-intelligence-ChatBot](https://github.com/abhayrana303/Document-Research-ChatBot): A chatbot that helps you research and interact with documents efficiently.
 - [Multiple-Disease-prediction-web-app](https://github.com/abhayrana303/Multiple-Disease-prediction-web-app): Web app to predict multiple diseases based on user input.
 - [Rail Madad (Contributor)](https://github.com/DevsDialogue/rail-madad): Community-driven platform for railway assistance and dialogue.
 - [AI Article Generator](https://github.com/abhayrana303/ai-article-generator.git): AI driven article generator.
